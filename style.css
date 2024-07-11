@@ -1,0 +1,25 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+.Container{
+    background: lightseagreen;
+    width: 100%;
+    min-height: 100vh;
+    padding: 10px;
+    color: white;
+    padding-top: 50px;
+}
+.Calculator h1{
+    font-size: 50px;
+    color: yellow;
+}
+.input{
+    flex: 1;
+    margin-right: 20px;
+    padding: 14px 20px;
+    border: 0;
+
+}
